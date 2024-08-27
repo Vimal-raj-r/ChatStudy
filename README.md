@@ -9,7 +9,7 @@ Client-server chat applications are software systems that enable real-time commu
 •	Server:
 •	The server is a central component that listens for incoming connections from clients.
 •	It manages the communication channels and facilitates the exchange of messages between clients.
-•	It may handle user authentication, message routing, and other core functionalities.
+•	It may handle user authentication, message routing, and other core functionalities .
 •	Client:
 •	Clients are users or devices that connect to the server to participate in the chat.
 •	Each client has a unique identity, often represented by a username.
